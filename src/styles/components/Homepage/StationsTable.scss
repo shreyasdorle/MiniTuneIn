@@ -1,0 +1,14 @@
+.StationsTable{
+  .categories{
+    margin-bottom: 50px;
+    .ant-tag{
+      font-size: 18px;
+      text-transform: capitalize;
+      cursor: pointer;
+      padding: 8px;
+    }
+  }
+  .ant-table-row{
+    cursor: pointer;
+  }
+}
